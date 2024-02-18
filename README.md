@@ -43,9 +43,9 @@
 
 🤝🏻  Connect with Me
 
-       - [Linkedin](https://www.linkedin.com/in/your-profile-url)
-       - [Company Website](https://www.scriptedsaga.io/)
-       - [Portfolio](https://shan305.github.io/zeeshan.github.io/)
+- [Linkedin](https://www.linkedin.com/in/zeeshan-ali-89b246193/)
+- [Company Website](https://www.scriptedsaga.io/)
+- [Portfolio](https://shan305.github.io/zeeshan.github.io/)
 
       
 ---
