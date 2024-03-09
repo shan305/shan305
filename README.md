@@ -1,5 +1,5 @@
 
-## Hey there! I'm [Zeeshan Ali]
+## Hey there! I'm Zeeshan Ali
 
 
 
