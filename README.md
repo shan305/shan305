@@ -79,9 +79,9 @@ I come from a **high-responsibility operational background** and bring that mind
 
 ---
 
-## GitHub Activity
+## GitHub Overview
 
-![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shan305&icons=true&theme=radical)
+![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shan305&show_icons=true&theme=radical)
 
 
 Open to **backend, platform, or systems engineering roles** across industries.
