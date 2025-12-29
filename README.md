@@ -1,33 +1,87 @@
-# Hi there 👋 I'm Zeeshan Ali
+# Hi, I’m Zeeshan Ali 👋
 
-Passionate Software Engineer developing solutions at the intersection of AI, Blockchain, and Full-Stack Development. Building scalable systems and exploring innovative technologies to solve problems.
+Software Engineer with experience building **reliable backend and distributed systems** across different domains. I focus on designing software that behaves **predictably under load, failure, and concurrency**, and I value clarity, discipline, and correctness over hype.
 
-## 🛠️ Tech Stack
-- **Languages:** Python | JavaScript | TypeScript | Java | C++
-- **Web & Framework:** React | Next.js | Node.js | Django | Spring Boot
-- **AI & ML:** TensorFlow | OpenCV | Scikit-learn | Computer Vision
-- **Database & Cache:** PostgreSQL | MongoDB | Redis | Firebase
-- **DevOps & Cloud:** AWS | Docker | Kubernetes | GitHub Actions
-- **Blockchain:** Smart Contracts | DeFi | Web3
+I come from a **high-responsibility operational background** and bring that mindset into engineering: systems should be understandable, auditable, and resilient.
 
-## 💡 What I Do
-Building distributed systems, designing AI solutions, and developing blockchain applications. Currently exploring advanced ML applications and contributing to open-source projects.
+---
 
-## 🤝 Let's Connect
-- Portfolio: [zeeshan-potfolio.vercel.app](https://zeeshan-potfolio.vercel.app/)
-- LinkedIn: [Zeeshan Ali](https://www.linkedin.com/in/zeeshan-ali-89b246193/)
-- Email: z.shankhan.ali@gmail.com
+## What I Work On
 
-## 📊 GitHub Analytics
+- **Backend & Distributed Systems**
+  - Designing services that handle concurrency and partial failure
+  - Event-driven architectures and asynchronous processing
+  - Data consistency, idempotency, and replayability
+
+- **System Design & Infrastructure**
+  - API design and service boundaries
+  - Databases, messaging systems, and caches
+  - Containerized deployments and CI/CD pipelines
+
+- **Security-Aware Engineering**
+  - Authorization and access-control flows
+  - Defensive design against stale state and race conditions
+  - Audit-friendly system behavior
+
+---
+
+## Selected Projects & Work
+
+- **Distributed System Prototypes**
+  - Event-based processing pipelines
+  - State transition modeling
+  - Failure-mode exploration and mitigation
+
+- **Authorization & Consistency Tooling**
+  - Tools to surface correctness issues caused by caching, delays, or stale state
+  - Focus on making hidden bugs observable
+
+- **Production Backend Services**
+  - REST and message-driven services
+  - Database-backed systems with strong data integrity requirements
+
+(Fintech systems are part of my experience, not my entire identity.)
+
+---
+
+## Technical Stack
+
+**Languages**
+- Java, C++, Python, TypeScript
+
+**Backend & Data**
+- Spring Boot, Node.js, Django
+- PostgreSQL, MongoDB, Redis
+- Kafka and message-driven systems
+
+**Infrastructure**
+- Docker, GitHub Actions
+- Linux-based deployments
+- Cloud-hosted services
+
+---
+
+## How I Think About Engineering
+
+- Prefer explicit state over hidden mutation
+- Make failure modes visible
+- Design for long-term maintainability
+- Build systems that can be reasoned about by other engineers
+
+---
+
+## Connect
+
+- 🌐 Portfolio: https://zeeshan-portfolio.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/zeeshan-ali-89b246193  
+- 📧 Email: z.shankhan.ali@gmail.com  
+
+
+---
+
+## GitHub Activity
 
 ![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shan305&icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shan305&layout=compact&theme=radical)](https://github.com/shan305/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shan305&theme=radical)](https://git.io/streak-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=shan305&color=blueviolet)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shan305&theme=radical)](https://github.com/shan305/github-profile-trophy)
-
-*Open to collaborating on innovative projects in AI, Blockchain, and Full-Stack Development*
+Open to **backend, platform, or systems engineering roles** across industries.
